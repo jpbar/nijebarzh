@@ -3,11 +3,7 @@ languageCode: "fr-FR"
 defaultContentLanguage: "fr"
 title: "Nij e Barzh"
 description: "Club de modélisme indoor de Plouvien — aéromodélisme en salle, F3P"
-paginate: 10
-
-module:
-  imports:
-    - path: github.com/nunocoracao/blowfish/v2
+theme: "blowfish"
 
 params:
   colorScheme: "avocado"

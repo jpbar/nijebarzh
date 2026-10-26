@@ -15,14 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-go@v5
-        with:
-          go-version: "stable"
+      - name: Récupérer le thème Blowfish
+        run: git clone --depth=1 https://github.com/nunocoracao/blowfish.git themes/blowfish
       - uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: "latest"
           extended: true
-      - run: hugo mod get github.com/nunocoracao/blowfish/v2
       - run: hugo --minify
       - uses: actions/upload-pages-artifact@v3
         with:
