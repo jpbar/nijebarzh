@@ -1,0 +1,47 @@
+baseURL: "https://nij-e-barzh.fr/"
+languageCode: "fr-FR"
+defaultContentLanguage: "fr"
+title: "Nij e Barzh"
+description: "Club de modélisme indoor de Plouvien — aéromodélisme en salle, F3P"
+paginate: 10
+
+module:
+  imports:
+    - path: github.com/nunocoracao/blowfish/v2
+
+params:
+  colorScheme: "avocado"
+  header:
+    layout: "basic"
+  homepage:
+    layout: "hero"
+    heroHeadline: "Nij e Barzh"
+    heroSubHeadline: "Club de modélisme indoor de Plouvien (Finistère) — aéromodélisme en salle et compétition F3P"
+    showRecent: true
+    showRecentItems: 3
+    showMoreLink: true
+    showMoreLinkDest: "/posts/"
+  article:
+    showReadingTime: false
+    showDate: true
+  footer:
+    showCopyright: true
+    showThemeAttribution: false
+
+menus:
+  main:
+    - name: "Le Club"
+      pageRef: "le-club"
+      weight: 10
+    - name: "Compétition F3P"
+      pageRef: "f3p"
+      weight: 20
+    - name: "Avions Indoor"
+      pageRef: "avions-indoor"
+      weight: 30
+    - name: "Documentation"
+      pageRef: "docs"
+      weight: 40
+    - name: "Galerie"
+      pageRef: "galerie"
+      weight: 50
