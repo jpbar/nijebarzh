@@ -21,4 +21,5 @@ Modèle du club construit d'après le plan Kimmo Kakoranta 2017.
 
 {{< gallery >}}
 {{< figure src="/images/modeles-du-club/rane2-1.jpg" caption="Rane2 en carbone" >}}
+{{< figure src="/images/modeles-du-club/rane2-2.jpg" caption="Rane2 en carbone" >}}
 {{< /gallery >}}
