@@ -4,4 +4,4 @@ weight: 10
 ---
 # Les modèles du club
 
-- [Plan Kimmo Kakoranta 2017](/modeles/kimmo-kakoranta-2017/)
+- [Rane2 en carbone (plan Kimmo Kakoranta 2017)](/modeles/kimmo-kakoranta-2017/)
