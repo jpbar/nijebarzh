@@ -9,7 +9,7 @@ mainSections: ["posts"]
 params:
   colorScheme: "avocado"
   header:
-    layout: "basic"
+    layout: "fixed-fill"
   homepage:
     layout: "landing"
     showRecent: true
