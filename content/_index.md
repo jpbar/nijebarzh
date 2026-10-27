@@ -2,6 +2,7 @@
 title: "Nij e Barzh — Club de modélisme indoor de Plouvien"
 heroCaption: "Club de vol indoor du Finistère"
 heroLead: "Association loi 1901 créée en 2008, affiliée à la FFA — dédiée à la pratique et au développement de l'aéromodélisme en salle et de la compétition F3P."
+heroImage: "images/hero.svg"
 heroButtons:
   - label: "Découvrir le club"
     url: "/le-club/"
