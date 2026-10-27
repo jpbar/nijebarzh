@@ -4,15 +4,14 @@ defaultContentLanguage: "fr"
 title: "Nij e Barzh"
 description: "Club de modélisme indoor de Plouvien — aéromodélisme en salle, F3P"
 theme: "blowfish"
+mainSections: ["posts"]
 
 params:
   colorScheme: "avocado"
   header:
     layout: "basic"
   homepage:
-    layout: "hero"
-    heroHeadline: "Nij e Barzh"
-    heroSubHeadline: "Club de modélisme indoor de Plouvien (Finistère) — aéromodélisme en salle et compétition F3P"
+    layout: "landing"
     showRecent: true
     showRecentItems: 3
     showMoreLink: true
