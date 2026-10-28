@@ -32,9 +32,13 @@ et la [documentation du club](/docs/).
 
 ## Agenda
 
-| Date | Événement | Lieu |
-|------|-----------|------|
-| À compléter | Séance de vol indoor | Salle des sports de Mespeler, Plouvien |
+Les séances de vol ont lieu **salle des sports de Mespeler à Plouvien** :
+
+| Jour | Horaires |
+|------|----------|
+| Dimanche | Matin de 9h30 à 13h — Après-midi de 15h30 à 19h |
+| Lundi | Matin de 10h à 13h |
+| Vendredi | Matin de 10h à 13h |
 
 ## Nij-e-barzh TV
 
