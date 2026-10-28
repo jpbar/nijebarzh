@@ -38,7 +38,7 @@ et la [documentation du club](/docs/).
 
 ## Nij-e-barzh TV
 
-{{< youtube id="ID-VIDEO" title="Nij e Barzh TV" >}}
+{{< youtube id="7-fBUnsuhNA" title="Nij e Barzh TV" >}}
 
 ## Nous contacter
 
