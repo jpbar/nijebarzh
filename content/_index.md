@@ -11,6 +11,8 @@ heroButtons:
     style: "outline"
 ---
 
+{{< figure src="images/logo.png" alt="Logo du club Nij e Barzh" nozoom="true" class="mx-auto" figureClass="flex justify-center" >}}
+
 Bienvenue sur le site du club Nij e Barzh ! Nous volons en salle à Plouvien
 (Finistère) toute l'année : initiation, pilotage, construction et compétition F3P.
 
