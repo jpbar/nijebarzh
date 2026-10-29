@@ -5,3 +5,6 @@ categorie: "avion indoor"
 ---
 
 Avion construit tout en jonc de carbone et entoilé au mylar.
+{{< gallery >}}
+{{< figure src="../../images/modeles-du-club/touten-carbon-1.jpg" caption="Touten Carbon" >}}
+{{< /gallery >}}

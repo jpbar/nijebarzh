@@ -12,3 +12,6 @@ et entoilage en mylar.
 | Poids | 100 g sans accu (116 à 121 g avec accu) |
 | Servo | Hitec HS-35HD (4,5 g) |
 | Moteur | XPower XC2803/60 F3PN (14,3 g) |
+{{< gallery >}}
+{{< figure src="../../images/modeles-du-club/SPIES.jpg" caption="Le SPIES" >}}
+{{< /gallery >}}
