@@ -2,6 +2,7 @@
 title: "Deltaplane indoor motorisé"
 weight: 50
 categorie: "avion indoor"
+featureimage: "modeles-du-club/deltaplane1.png"
 ---
 
 | Caractéristique | Valeur |
@@ -14,6 +15,11 @@ categorie: "avion indoor"
 Premier vol : aucune reprise si ce n'est de rigidifier le mât central pour
 améliorer la réactivité en virage et mettre un peu de couleur pour mieux
 apprécier sa distance au pilote. Très plaisant à piloter…
+
+{{< gallery >}}
+{{< figure src="../../images/modeles-du-club/deltaplane1.png" caption="Deltaplane indoor motorisé" >}}
+{{< figure src="../../images/modeles-du-club/deltaplane2.png" caption="Deltaplane indoor motorisé" >}}
+{{< /gallery >}}
 
 ## Vidéo
 
