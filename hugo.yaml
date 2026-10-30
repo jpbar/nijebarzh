@@ -57,6 +57,9 @@ menus:
     - name: "Le Club"
       pageRef: "le-club"
       weight: 10
+    - name: "Les modèles du club"
+      pageRef: "modeles"
+      weight: 15
     - name: "Compétition F3P"
       pageRef: "f3p"
       weight: 20
