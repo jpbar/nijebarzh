@@ -5,8 +5,10 @@ categorie: "avion indoor"
 featureimage: "modeles-du-club/GeeBee.JPG"
 ---
 
-Construction inspirée de l'EIM-Racer pour les cotes et du plan 3 vues du
-Midget Mustang pour l'allure.
+Racer de course aux pylônes : construction inspirée de
+[l'EIM-Racer](http://sallesindoor.blog4ever.com/eim-racer-course-aux-pylanes)
+pour les cotes et du [plan 3 vues du Midget Mustang](http://www.mustangaero.com/images/Midget%20Mustang/Midget%203%20View.JPG)
+pour l'allure.
 
 | Caractéristique | Valeur |
 |---|---|
