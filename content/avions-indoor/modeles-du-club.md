@@ -20,3 +20,6 @@ weight: 10
 - [Le SPIES](/modeles/spies/)
 - [Touten Carbon](/modeles/touten-carbon/)
 - [Le Aïto](/modeles/aito/)
+- [Canard Voisin](/modeles/canard-voisin/)
+- [Drenaline](/modeles/drenaline/)
+- [REP Parasol](/modeles/rep-parasol/)

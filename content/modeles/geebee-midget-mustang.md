@@ -13,3 +13,8 @@ Midget Mustang pour l'allure.
 | Servos | Hitec HS-40 (4,7 g) & Pro-Tronik 7320NG-D (2,9 g) |
 | Moteur | XPower XC2803/60 F3PN (14,3 g) |
 | Hélice | 8 x 6 |
+
+{{< gallery >}}
+{{< figure src="../../images/modeles-du-club/GeeBee.JPG" caption="Modèle du club" >}}
+{{< figure src="../../images/modeles-du-club/MidgetMustang .jpg" caption="Modèle du club" >}}
+{{< /gallery >}}

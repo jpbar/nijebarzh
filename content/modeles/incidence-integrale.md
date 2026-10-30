@@ -12,3 +12,8 @@ carbone de 3 mm servant de support et d'axe fixe des ailes.
 Le vol est plaisant et très fluide. Ce type d'avion permet de bien
 comprendre l'influence de l'incidence sur les variations d'altitude et de
 portance. Un plaisir…
+
+{{< gallery >}}
+{{< figure src="../../images/modeles-du-club/IncidenceIntégrale1.JPG" caption="Modèle du club" >}}
+{{< figure src="../../images/modeles-du-club/Incidences Intégral 2.JPG" caption="Modèle du club" >}}
+{{< /gallery >}}

@@ -10,3 +10,7 @@ Hélicoptère indoor à pas collectif.
 |---|---|
 | Type | Pas collectif |
 | Rotor | 197 mm |
+
+{{< gallery >}}
+{{< figure src="../../images/modeles-du-club/Blade_nCPX.jpg" caption="Modèle du club" >}}
+{{< /gallery >}}
