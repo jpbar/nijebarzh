@@ -36,6 +36,8 @@ params:
   list:
     showCards: true
     showSummary: false
+    groupByYear: false
+    orderByWeight: true
   homepage:
     layout: "landing"
     showRecent: true
