@@ -2,6 +2,7 @@
 title: "Trivia dépron (version fraisée)"
 weight: 110
 categorie: "avion indoor"
+featureimage: "modeles-du-club/trivia-depron.jpg"
 ---
 
 Version dépron 3 mm fraisé du Trivia.
@@ -11,3 +12,7 @@ Version dépron 3 mm fraisé du Trivia.
 | Poids | 115 g sans accu (+20 g avec accu) |
 | Servo | Hitec HS-35HD (4,5 g) |
 | Moteur | XPower XC2803/60 F3PN (14,3 g) |
+
+{{< gallery >}}
+{{< figure src="../../images/modeles-du-club/trivia-depron.jpg" caption="Trivia dépron (version fraisée)" >}}
+{{< /gallery >}}
