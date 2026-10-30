@@ -16,3 +16,7 @@ featureimage: "modeles-du-club/Piper170.jpg"
 {{< gallery >}}
 {{< figure src="../../images/modeles-du-club/Piper170.jpg" caption="Piper indoor en dépron" >}}
 {{< /gallery >}}
+
+## Vidéo
+
+{{< youtube id="vm7IimpvHq4" title="Piper indoor en dépron en vol" >}}
