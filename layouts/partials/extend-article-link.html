@@ -1,17 +1,10 @@
-{{/* Compteurs affichés sur les cartes de la galerie des modèles */}}
-{{ $imgs := len (findRE "<img" .Content 100) }}
-{{ $videos := len (findRE "youtube\.com/embed|youtube-nocookie\.com/embed" .Content 10) }}
-{{ $docs := len (findRE "\.pdf|\.dxf" .Content 10) }}
+{{ $imgs := len (findRE "<img" .Content) }}
+{{ $videos := len (findRE "youtube" .Content) }}
+{{ $docs := len (findRE ".pdf|.dxf" .Content) }}
 {{ if or $imgs $videos $docs }}
-  <div class="not-prose flex flex-wrap gap-3 text-xs text-neutral-500 dark:text-neutral-400 mt-1">
-    {{ with $imgs }}
-      {{ if gt . 0 }}<span title="{{ . }} photo(s)">📷 {{ . }}{{ if gt . 1 }}{{ end }}</span>{{ end }}
-    {{ end }}
-    {{ with $videos }}
-      {{ if gt . 0 }}<span title="{{ . }} vidéo(s)">🎬 {{ . }}</span>{{ end }}
-    {{ end }}
-    {{ with $docs }}
-      {{ if gt . 0 }}<span title="{{ . }} document(s) (PDF/DXF)">📄 {{ . }}</span>{{ end }}
-    {{ end }}
-  </div>
+<div class="not-prose flex flex-wrap gap-3 text-xs text-neutral-500 dark:text-neutral-400 mt-1">
+  {{ if $imgs }}<span>📷 {{ $imgs }}</span>{{ end }}
+  {{ if $videos }}<span>🎬 {{ $videos }}</span>{{ end }}
+  {{ if $docs }}<span>📄 {{ $docs }}</span>{{ end }}
+</div>
 {{ end }}
