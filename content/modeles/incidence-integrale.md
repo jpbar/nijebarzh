@@ -2,6 +2,7 @@
 title: "Avion à incidence intégrale (Nij taol-arnod e barzh)"
 weight: 40
 categorie: "avion expérimental"
+featureimage: "modeles-du-club/IncidenceIntégrale1.JPG"
 ---
 
 Avion expérimental d'intérieur relativement simple à construire.
@@ -14,6 +15,6 @@ comprendre l'influence de l'incidence sur les variations d'altitude et de
 portance. Un plaisir…
 
 {{< gallery >}}
-{{< figure src="../../images/modeles-du-club/IncidenceIntégrale1.JPG" caption="Modèle du club" >}}
-{{< figure src="../../images/modeles-du-club/Incidences Intégral 2.JPG" caption="Modèle du club" >}}
+{{< figure src="../../images/modeles-du-club/IncidenceIntégrale1.JPG" caption="Avion à incidence intégrale" >}}
+{{< figure src="../../images/modeles-du-club/Incidences Intégral 2.JPG" caption="Avion à incidence intégrale" >}}
 {{< /gallery >}}

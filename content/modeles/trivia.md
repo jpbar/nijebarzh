@@ -2,6 +2,7 @@
 title: "Trivia (mylar)"
 weight: 70
 categorie: "avion indoor"
+featureimage: "modeles-du-club/Trivia.jpg"
 ---
 
 # Trivia (mylar)

@@ -2,6 +2,7 @@
 title: "FlyKeen (construction perso)"
 weight: 30
 categorie: "avion indoor"
+featureimage: "modeles-du-club/FlyKeen.JPG"
 ---
 
 # FlyKeen (construction perso)

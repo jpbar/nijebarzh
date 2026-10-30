@@ -2,6 +2,7 @@
 title: "Piper indoor en dépron"
 weight: 20
 categorie: "avion indoor"
+featureimage: "modeles-du-club/Piper170.jpg"
 ---
 
 # Piper indoor en dépron

@@ -2,6 +2,7 @@
 title: "Rane Carbone"
 weight: 60
 categorie: "avion indoor"
+featureimage: "modeles-du-club/Rane.jpg"
 ---
 
 | Caractéristique | Valeur |
@@ -13,5 +14,5 @@ categorie: "avion indoor"
 | Hélices | Carbone perso 10 x 3,8'' |
 
 {{< gallery >}}
-{{< figure src="../../images/modeles-du-club/Rane.jpg" caption="Modèle du club" >}}
+{{< figure src="../../images/modeles-du-club/Rane.jpg" caption="Rane Carbone" >}}
 {{< /gallery >}}

@@ -6,11 +6,36 @@ description: "Club de modélisme indoor de Plouvien — aéromodélisme en salle
 theme: "blowfish"
 mainSections: ["posts"]
 
+pagination:
+  pagerSize: 8
+
+module:
+  mounts:
+    - source: content
+      target: content
+    - source: layouts
+      target: layouts
+    - source: static
+      target: static
+    - source: data
+      target: data
+    - source: assets
+      target: assets
+    - source: i18n
+      target: i18n
+    - source: archetypes
+      target: archetypes
+    - source: static/images/modeles-du-club
+      target: assets/modeles-du-club
+
 params:
   logo: "images/logo.png"
   colorScheme: "avocado"
   header:
     layout: "fixed-fill"
+  list:
+    showCards: true
+    showSummary: false
   homepage:
     layout: "landing"
     showRecent: true

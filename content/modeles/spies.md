@@ -2,6 +2,7 @@
 title: "Le SPIES"
 weight: 140
 categorie: "avion indoor"
+featureimage: "modeles-du-club/SPIES.jpg"
 ---
 
 # Le SPIES

@@ -16,6 +16,6 @@ heroButtons:
 Bienvenue sur le site du club Nij e Barzh ! Nous volons en salle à Plouvien
 (Finistère) toute l'année : initiation, pilotage, construction et compétition F3P.
 
-- [Avions Indoor : les modèles du club](/avions-indoor/modeles-du-club/)
+- [Avions Indoor : les modèles du club](/modeles/)
 - [Guides et plans (PDF)](/docs/)
 - [Galerie photo](/galerie/)

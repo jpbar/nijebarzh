@@ -3,6 +3,8 @@ title: "Rane2 en carbone"
 plan: "Kimmo Kakoranta 2017"
 annee: 2017
 categorie: "avion indoor prêt à voler"
+featureimage: "modeles-du-club/rane2-1.jpg"
+weight: 10
 ---
 
 # Rane2 en carbone
