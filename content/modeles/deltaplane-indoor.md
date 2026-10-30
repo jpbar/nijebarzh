@@ -14,3 +14,7 @@ categorie: "avion indoor"
 Premier vol : aucune reprise si ce n'est de rigidifier le mât central pour
 améliorer la réactivité en virage et mettre un peu de couleur pour mieux
 apprécier sa distance au pilote. Très plaisant à piloter…
+
+## Vidéo
+
+{{< youtube id="651ViAD4rzc" title="Deltaplane indoor motorisé en vol" >}}
