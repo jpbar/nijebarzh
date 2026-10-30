@@ -12,3 +12,7 @@ Modèle du club inspiré des premiers avions Voisin.
 {{< figure src="../../images/modeles-du-club/CanardVoisin1.JPG" caption="Canard Voisin" >}}
 {{< figure src="../../images/modeles-du-club/CanardVoisin2.JPG" caption="Canard Voisin" >}}
 {{< /gallery >}}
+
+## Vidéo
+
+{{< youtube id="O6IhQieIyt0" title="Canard Voisin en vol" >}}
