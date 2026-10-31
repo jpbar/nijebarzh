@@ -1,7 +1,7 @@
 ---
 title: "La construction carbone en F3P"
 weight: 20
-description: "Guide complet de construction d'un modèle F3P en carbone : fournitures, chantier, courbes, ligatures, entoilage mylar, assemblage et haubanage."
+description: "Guide complet de construction d'un modèle F3P en carbone : fournitures, structure, chantier, courbes, ligatures, entoilage mylar, assemblage et haubanage."
 ---
 
 # Guide de construction d'un F3P en carbone
@@ -12,7 +12,7 @@ Cet article explique en détail comment construire un modèle F3P en carbone.
 
 ## 1. Les fournitures
 
-Il faudra du carbone :
+### Le carbone
 
 - Des tubes carbone pultrudés de 0,7 mm
 - Des joncs de 0,5 mm
@@ -26,37 +26,66 @@ et de la structure que vous envisagez (+/- de tubes ou +/- de joncs).
 Pensez toujours que moins on met de carbone plus c'est léger et moins il y
 a de ligatures… et ce n'est pas forcément plus fragile !
 
+Fournisseurs : [r-g.de](http://www.r-g.de/en/), [aerobertics.be](http://www.aerobertics.be/) ou [alanrcfly.com](http://www.alanrcfly.com/)
+
 {{< figure src="../../images/construction/fil-de_carbone.jpg" caption="Mèche de carbone 1k" >}}
 
-Il faudra du tube silicone pour mouler les parties courbes :
+### Le tube silicone
 
-- Du tube silicone 0,5 mm intérieur pour les parties courbes en 0,5 mm (magasin de pêche — article pour pêcheurs de carpe !)
-- Du tube silicone 0,7 mm intérieur pour les parties courbes en 0,7 mm (magasin de pêche — article pour pêcheurs de carpe !)
+Pour mouler les parties courbes :
 
-Il faudra du kevlar pour les ligatures :
+- Du tube silicone 0,5 mm intérieur (+/- 0,7 mm s'il y a des parties courbes en 0,7 mm) — magasin de pêche, article pour pêcheurs de carpe !
 
-- Du fil kevlar (Sufix Nano Braid) de 0,04 mm
+Fournisseur : [Pacific Pêche (Fox Edges leader silicone 0,5 mm)](http://www.pacificpeche.com/fox-edges-leader-silicone-0-5mm-trans-khaki-1-5m.html)
 
-Il faudra du mylar pour l'entoilage :
+### Le kevlar
+
+Pour les ligatures :
+
+- Du fil kevlar (nano braid) de 0,04 mm (marque Sufix). À défaut, maxi 0,12 ou 0,15 mm.
+
+Fournisseur : [Ardent Pêche (tresse Sufix NanoBraid)](http://www.ardent-peche.com/A-40616-tresse-sufix-nanobraid-aqua-camo.aspx)
+
+### Le mylar
+
+Pour l'entoilage :
 
 - Du mylar de 3 microns
 
-Il faudra de la colle :
+Fournisseurs : [freeflightsupplies.co.uk](http://www.freeflightsupplies.co.uk/) ou [alanrcfly.com](http://www.alanrcfly.com/)
+
+### Les colles
 
 - De la cyanoacrylate épaisse
 - De la cyanoacrylate super fluide
-- Des canules pour la cyanoacrylate liquide
-- 1 tube de colle néoprène et son diluant de même marque ou néoprène en bombe
-- 1 tube de colle Polyuréthane Beli Zell
-- Du Micropore de marque 3M en pharmacie
+- Des canules pour la cyano liquide
+- 1 tube de colle néoprène et son diluant de même marque, ou à défaut de la colle néoprène en bombe (dans ce cas, prendre de la très bonne qualité pour être sûr d'avoir une pulvérisation constante et très fine)
+- 1 tube de colle Polyuréthane Beli Zell — [polymodel.fr](http://www.polymodel.fr/products/fiche-42/colle-beli-zell-pu/)
+- Du Micropore (marque 3M, en pharmacie)
 
-Pour finir :
+### Pour finir
 
-- Le petit outillage modéliste habituel : petites limes, mini pince coupante ou coupe-ongle, cutters neufs et lames de rasoir neuves, épingles, aiguilles (en enfile-aiguille). Un petit outil rotatif genre Dremel et quelques accessoires rendent bien service…
+Le petit outillage modéliste habituel : petites limes, mini pince coupante ou coupe-ongle, cutters neufs et lames de rasoir neuves, épingles, aiguilles (en enfile-aiguille). Un petit outil rotatif genre Dremel et quelques accessoires rendent bien service…
 
 Un peu de patience et un peu de soin…
 
-## 2. Le chantier
+## 2. La structure
+
+Faire en tubes pultrudés de 0,7 mm et en jonc de 0,5 mm
+(éventuellement tout en 0,5 mm… mais pas facile à entoiler car très souple !).
+
+Pour un entoilage classique en posant la structure sur le mylar tendu, sans
+risquer de déformations, il faut faire en tubes de 0,7 mm :
+
+- le bas du haut du fuselage vertical ;
+- le haut du bas du fuselage vertical ;
+- les côtés droits et gauches du fuselage horizontal ;
+- l'articulation des gouvernes (ailerons, prof, dérive) ;
+- l'avant support moteur.
+
+Tout le reste peut être en jonc de 0,5 mm.
+
+## 3. Le chantier
 
 Il vous faut :
 
@@ -69,7 +98,7 @@ Il vous faut :
 Fixez le plan du modèle sur le chantier (pas le chantier fendu !).
 Recouvrez d'un film polyéthylène transparent et fixez aussi ce film (scotch).
 
-## 3. Préparer les segments courbes
+## 4. Préparer les segments courbes
 
 ### Pour une courbe sur une grande longueur
 
@@ -100,7 +129,7 @@ Couper le tube dans la longueur avec une lame de rasoir neuve en vous appuyant s
 - Placer sur le gabarit, fixer avec des scotchs… et attendre que ça polymérise complètement.
 - En tirant doucement sur le jonc on arrive souvent à faire glisser le bout de tube silicone. Sinon le couper dans la longueur sans abîmer le carbone.
 
-## 4. Les ligatures
+## 5. Les ligatures
 
 - Positionner les pièces sur le plan en les maintenant avec du scotch de masquage.
 - Fixer la liaison avec une micro goutte de cyano épaisse.
@@ -119,7 +148,7 @@ Couper le tube dans la longueur avec une lame de rasoir neuve en vous appuyant s
 {{< figure src="../../images/construction/ligature3.jpg" caption="Ligature" >}}
 {{< /gallery >}}
 
-## 5. Les étapes de la construction
+## 6. Les étapes de la construction
 
 1. La partie verticale (courbes, placement des joncs sur le plan et ligatures)
 2. La partie horizontale (courbes, placement des joncs sur le plan, ligatures et articulations des gouvernes)
@@ -128,9 +157,7 @@ Couper le tube dans la longueur avec une lame de rasoir neuve en vous appuyant s
 5. L'assemblage
 6. Le haubanage
 
-## 6. La construction de la partie verticale
-
-Commencer par la dérive pour se faire la main sur une pièce facile.
+## 7. La construction de la partie verticale
 
 **1- Fixer les pièces sur le plan avec du scotch de masquage.**
 
@@ -149,7 +176,7 @@ Commencer par la dérive pour se faire la main sur une pièce facile.
 - Ajuster les longueurs (pince-coupe ongle et petite lime). Il faut être assez précis pour qu'il n'y ait aucune tension dans la structure. Sinon quand on enlève les scotchs les tensions se libèrent et ce qui était droit devient courbe !
 - Ligaturer l'autre bout sur le haut du haut et le bas du bas du fuselage.
 
-## 7. La construction de la partie horizontale
+## 8. La construction de la partie horizontale
 
 **1- Elle se fait de la même façon que la partie verticale.**
 
@@ -177,10 +204,10 @@ Morceaux de tube 0,7 mm :
 **3- Le haubanage des ailerons et du stab :**
 
 - À faire en jonc de 0,5 et de 0,2 mm. Le plan dépend du modèle.
-- Attention, le plan de haubanage des ailerons inclut les guignols (ainsi que celui de la profondeur si vous avez un chantier fendu). Pensez bien avant à la manière dont vous allez faire les articulations des commandes sur les guignols.
+- Attention, le plan de haubanage des ailerons inclut les guignols (possible aussi pour la profondeur si vous avez un chantier fendu). Pensez bien avant à la manière dont vous allez faire les articulations des commandes sur les guignols.
 - Penser aussi, en faisant le plan de vos raidisseurs, qu'il ne doit pas y avoir de conflit entre les raidisseurs des ailerons et du stab et le haubanage principal de l'aile et de la partie fixe du stab. Même en débattement maxi.
 
-## 8. L'entoilage
+## 9. L'entoilage
 
 Pour un premier modèle il est préférable de choisir du 3 microns. Le 2 microns est très bien mais nettement plus fragile et plus difficile à manipuler.
 
@@ -233,18 +260,18 @@ Deux options :
 {{< figure src="../../images/construction/mylar3.jpg" caption="Entoilage mylar" >}}
 {{< /gallery >}}
 
-## 9. Peinture / décoration
+## 10. Peinture / décoration
 
 - C'est le moment de penser à la décoration, pour l'esthétique mais aussi pour la visualisation du modèle. Sauf si vous êtes un pro de l'aérographe, ce n'est pas l'étape la plus facile : faites des essais, faites-vous la main avant de vous lancer sur le modèle.
 - On peut utiliser de l'encre pour aérographe ou de la peinture pour aérographe, de préférence une peinture qui se dilue à l'eau (plus facile à faire et à nettoyer). Le mylar ayant tendance à « refuser » la peinture, ajouter un peu d'agent mouillant (petite goutte de liquide vaisselle). La peinture Humbrol tient à peu près aussi, mais il semble qu'elle est plus lourde que les produits pour aérographe. De toute façon rien de ce que j'ai essayé ne tient parfaitement et plus on en met, plus c'est lourd et moins ça tient ! La main légère donc… juste pour colorer.
 - Le masquage se fait avec des caches en dépron ou en carton, découpés à la forme souhaitée et tenus en place par des grosses rondelles ou des gros écrous. Juste posés, rien de collé. Pas de scotch de masquage surtout !
 
-## 10. Installation des servos
+## 11. Installation des servos
 
 - Mettre en place maintenant les servos d'aileron et de direction (pas encore la profondeur), pré-cablés avec leurs fils émaillés.
 - C'est peut-être possible, mais ça me semble difficile de poser dès maintenant le contrôleur et le Rx car il va falloir y souder plus tard les fils du moteur et du (des) servos d'aileron… et souder sur des pièces déjà presque au contact du mylar me paraît risqué !
 
-## 11. L'assemblage
+## 12. L'assemblage
 
 C'est là que c'est bien d'avoir un chantier fendu !
 
@@ -261,7 +288,7 @@ Si vous en avez un :
 - Coller le bas bien vertical et bien rectiligne par une goutte de cyano épaisse à chaque intersection avec les joncs transversaux du fuselage horizontal.
 - Avant de passer au haubanage, installez les commandes d'ailerons (plus tard ce sera trop difficile d'accès).
 
-## 12. Le haubanage du dessous
+## 13. Le haubanage du dessous
 
 - Prévoir à l'avance la position de tous les haubans et mettre une rondelle de Micropore (selon son diamètre) à chaque endroit où le hauban doit traverser le mylar.
 - Durcir un peu le Micropore avec une goutte de cyano liquide et éponger au sopalain.
@@ -278,14 +305,14 @@ Si vous en avez un :
 - Si vous n'avez pas de chantier fendu, surélever le modèle sur des K7 VHS et procéder comme ci-dessus.
 - À ce stade toute la partie inférieure est terminée et les servos sont en place mais pas encore soudés au Rx.
 
-## 13. Le haubanage du dessus
+## 14. Le haubanage du dessus
 
 - Si vous avez le chantier fendu, le haut est déjà collé. Sinon c'est le moment de le coller.
 - Poser le modèle sur des piles de K7 VHS soutenues sous les ailes, sous le fuselage horizontal et sous le stab. Il faut trouver le moyen de le positionner parfaitement à plat, horizontal et sans aucun vrillage. Jouer de la position des K7 VHS en fonction de la position des haubans du bas pour avoir le plus de surface d'appui possible.
 - Coller la partie haute du fuselage selon la méthode indiquée plus haut avec le chantier fendu.
 - Quand tout est sec et bien calé, poser les haubans comme sur le bas. Ne coller que quand tout est vérifié d'équerre et rectiligne.
 
-## 14. Les canalizers et autres appendices
+## 15. Les canalizers et autres appendices
 
 - Poser un canalizer sur le fuselage. Le fixer sur le fuselage avec une petite ligature de NanoBraid au bord d'attaque et au bord de fuite, en piquant avec une aiguille fine à travers les rondelles de Micropore.
 - Quand tout est d'équerre, immobiliser avec une goutte de cyano liquide.
@@ -293,5 +320,7 @@ Si vous en avez un :
 - Haubaner comme pour le reste. Les grands haubans doivent être en tubes de 0,7 mm, le reste en 0,5 mm. Attention aux axes et aux vrillages.
 
 ---
+
+**Yapluka…** 🛩️
 
 📄 **[Télécharger le guide complet (PDF, 585 Ko)](../../pdf/construction/Construction%20carbone.pdf)**
