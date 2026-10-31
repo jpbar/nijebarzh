@@ -27,6 +27,8 @@ module:
       target: archetypes
     - source: static/images/modeles-du-club
       target: assets/modeles-du-club
+    - source: static/images/construction
+      target: assets/construction
 
 params:
   logo: "images/logo.png"
