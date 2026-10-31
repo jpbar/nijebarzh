@@ -26,8 +26,6 @@ et de la structure que vous envisagez (+/- de tubes ou +/- de joncs).
 Pensez toujours que moins on met de carbone plus c'est léger et moins il y
 a de ligatures… et ce n'est pas forcément plus fragile !
 
-Fournisseurs : [r-g.de](http://www.r-g.de/en/), [aerobertics.be](http://www.aerobertics.be/) ou [alanrcfly.com](http://www.alanrcfly.com/)
-
 {{< figure src="../../images/construction/fil-de_carbone.jpg" caption="Mèche de carbone 1k" >}}
 
 ### Le tube silicone
@@ -36,15 +34,11 @@ Pour mouler les parties courbes :
 
 - Du tube silicone 0,5 mm intérieur (+/- 0,7 mm s'il y a des parties courbes en 0,7 mm) — magasin de pêche, article pour pêcheurs de carpe !
 
-Fournisseur : [Pacific Pêche (Fox Edges leader silicone 0,5 mm)](http://www.pacificpeche.com/fox-edges-leader-silicone-0-5mm-trans-khaki-1-5m.html)
-
 ### Le kevlar
 
 Pour les ligatures :
 
 - Du fil kevlar (nano braid) de 0,04 mm (marque Sufix). À défaut, maxi 0,12 ou 0,15 mm.
-
-Fournisseur : [Ardent Pêche (tresse Sufix NanoBraid)](http://www.ardent-peche.com/A-40616-tresse-sufix-nanobraid-aqua-camo.aspx)
 
 ### Le mylar
 
@@ -52,15 +46,13 @@ Pour l'entoilage :
 
 - Du mylar de 3 microns
 
-Fournisseurs : [freeflightsupplies.co.uk](http://www.freeflightsupplies.co.uk/) ou [alanrcfly.com](http://www.alanrcfly.com/)
-
 ### Les colles
 
 - De la cyanoacrylate épaisse
 - De la cyanoacrylate super fluide
 - Des canules pour la cyano liquide
 - 1 tube de colle néoprène et son diluant de même marque, ou à défaut de la colle néoprène en bombe (dans ce cas, prendre de la très bonne qualité pour être sûr d'avoir une pulvérisation constante et très fine)
-- 1 tube de colle Polyuréthane Beli Zell — [polymodel.fr](http://www.polymodel.fr/products/fiche-42/colle-beli-zell-pu/)
+- 1 tube de colle Polyuréthane Beli Zell
 - Du Micropore (marque 3M, en pharmacie)
 
 ### Pour finir
