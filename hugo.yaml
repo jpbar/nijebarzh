@@ -29,6 +29,8 @@ module:
       target: assets/modeles-du-club
     - source: static/images/construction
       target: assets/construction
+    - source: static/images/contra-rotatifs-1
+      target: assets/contra-rotatifs-1
 
 params:
   logo: "images/logo.png"
