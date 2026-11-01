@@ -33,6 +33,8 @@ module:
       target: assets/contra-rotatifs-1
     - source: static/images/contra-rotatifs-2
       target: assets/contra-rotatifs-2
+    - source: static/images/contra-rotatifs-3
+      target: assets/contra-rotatifs-3
 
 params:
   logo: "images/logo.png"
