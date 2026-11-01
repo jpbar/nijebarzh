@@ -71,7 +71,7 @@ menus:
     - name: "Compétition F3P"
       pageRef: "f3p"
       weight: 20
-    - name: "Avions Indoor"
+    - name: "Guide de construction"
       pageRef: "avions-indoor"
       weight: 30
     - name: "Documentation"
