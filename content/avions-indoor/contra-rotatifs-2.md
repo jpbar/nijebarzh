@@ -9,7 +9,7 @@ showSummary: true
 
 # Moteurs contra-rotatifs — actualisation 2016
 
-*Suite de la [partie 1](/avions-indoor/contra-rotatifs-1/)*
+*Suite de la [partie 1](/avions-indoor/contra-rotatifs-1/) — la fabrication détaillée d'un moteur est traitée dans la [partie 3](/avions-indoor/contra-rotatifs-3/)*
 
 ## 1. Le Championnat du monde 2015 en Pologne
 
