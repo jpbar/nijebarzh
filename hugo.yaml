@@ -31,6 +31,8 @@ module:
       target: assets/construction
     - source: static/images/contra-rotatifs-1
       target: assets/contra-rotatifs-1
+    - source: static/images/contra-rotatifs-2
+      target: assets/contra-rotatifs-2
 
 params:
   logo: "images/logo.png"
