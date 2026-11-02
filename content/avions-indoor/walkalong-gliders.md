@@ -16,8 +16,6 @@ et un peu en arrière.
 
 {{< youtube Mb0MPspKsZw >}}
 
-{{< figure src="../../images/walkalong-gliders/0.jpg" caption="Un walkalong glider" >}}
-
 Il en existe de toutes les tailles et de toutes les formes : ailes
 volantes, papillons, oiseaux, ptérodactyles, silhouettes de planeurs ou
 d'avions connus ou imaginaires. On peut tout imaginer à condition de
@@ -54,6 +52,8 @@ une petite machine. Vous aurez besoin de :
 - une alimentation 12 V / 5 A (un chargeur de batterie de voiture par
   exemple) ;
 - 2 crochets et quelques élastiques.
+
+{{< figure src="../../images/walkalong-gliders/0.jpg" caption="Un walkalong glider" >}}
 
 {{< gallery >}}
 {{< figure src="../../images/walkalong-gliders/2.jpg" caption="La machine à découper" >}}
