@@ -53,7 +53,7 @@ une petite machine. Vous aurez besoin de :
   exemple) ;
 - 2 crochets et quelques élastiques.
 
-{{< figure src="../../images/walkalong-gliders/0.jpg" caption="Un walkalong glider" >}}
+{{< figure src="../../images/walkalong-gliders/0.jpg" caption="La machine à découper" >}}
 
 {{< gallery >}}
 {{< figure src="../../images/walkalong-gliders/2.jpg" caption="La machine à découper" >}}
