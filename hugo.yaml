@@ -35,6 +35,8 @@ module:
       target: assets/contra-rotatifs-2
     - source: static/images/contra-rotatifs-3
       target: assets/contra-rotatifs-3
+    - source: static/images/walkalong-gliders
+      target: assets/walkalong-gliders
 
 params:
   logo: "images/logo.png"
