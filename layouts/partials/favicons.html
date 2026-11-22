@@ -1,0 +1,6 @@
+{{ $favicon := resources.Get "images/favicon.png" }}
+{{ with $favicon }}
+<link rel="apple-touch-icon" href="{{ .RelPermalink }}">
+<link rel="icon" type="image/png" href="{{ .RelPermalink }}">
+{{ end }}
+<link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
