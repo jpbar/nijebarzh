@@ -1,0 +1,4 @@
+{{ $favicon := resources.Get "images/favicon.png" }}
+{{ with $favicon }}
+<link rel="icon" type="image/png" href="{{ .RelPermalink }}">
+{{ end }}
