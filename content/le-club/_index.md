@@ -11,7 +11,7 @@ depuis 2010.
 
 | Rôle | Nom |
 |------|-----|
-| Président | Patrice Quintin — 02 98 40 95 79 |
+| Président | Patrice Quintin  |
 | Trésorier | Jean Cabon |
 | Secrétaire | Jean-Pierre Barré |
 
@@ -46,6 +46,6 @@ Les séances de vol ont lieu **salle des sports de Mespeler à Plouvien** :
 
 ## Nous contacter
 
-- **Président** : Patrice Quintin — 02 98 40 95 79
+- **Président** : Patrice Quintin 
 - **Siège social** : Mairie de Plouvien, 1 place de la Mairie, 29860 Plouvien
-- Par email : contact@nij-e-barzh.fr
+- Par email : nijebarzh29@gmail.com
