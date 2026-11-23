@@ -70,7 +70,7 @@ menus:
     - name: "Les modèles du club"
       pageRef: "modeles"
       weight: 15
-    - name: "Compétition F3P"
+    - name: "Voltige F3P"
       pageRef: "f3p"
       weight: 20
     - name: "Guide de construction"
