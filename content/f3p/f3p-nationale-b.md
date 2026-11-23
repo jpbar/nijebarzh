@@ -12,8 +12,10 @@ showSummary: false
 
 {{< youtube A1Or8-vpKA4 >}}
 
-## Programme (PDF)
+## Le programme en PDF
 
-<iframe src="https://docs.google.com/viewer?url=https%3A%2F%2Fjpbar.github.io%2Fnijebarzh%2Fpdf%2Ff3p-nationale-b%2FNationale-B.pdf&embedded=true" width="100%" height="1100" style="border:0; display:block;"></iframe>
+<div style="border:2px solid #2e7d32; border-radius:10px; padding:1.2rem 1.5rem; text-align:center; margin:1.5rem 0;">
+<p style="margin:0 0 0.8rem; font-size:1.1em; font-weight:600;">Programme de vol ${t} 2025-2027</p>
+<p style="margin:0;"><a href="../../pdf/f3p-nationale-b/Nationale-B.pdf" style="display:inline-block; background:#2e7d32; color:#fff; padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none; font-weight:600;">📄 Ouvrir / télécharger le PDF</a></p>
+</div>
 
-📄 **[Télécharger le programme (PDF)](../../pdf/f3p-nationale-b/Nationale-B.pdf)**
