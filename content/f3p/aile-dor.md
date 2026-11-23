@@ -14,8 +14,6 @@ showSummary: false
 
 ## Fiche descriptive (PDF)
 
-<div style="border:1px solid #ddd; border-radius:6px; overflow:hidden;">
-<iframe src="../../pdf/voltige-aile-d-or/fiche-descriptive-aile-or-avion-RC-interieur.pdf" width="100%" height="1100" style="border:0; display:block;"></iframe>
-</div>
+<iframe src="https://docs.google.com/viewer?url=https%3A%2F%2Fjpbar.github.io%2Fnijebarzh%2Fpdf%2Fvoltige-aile-d-or%2Ffiche-descriptive-aile-or-avion-RC-interieur.pdf&embedded=true" width="100%" height="1100" style="border:0; display:block;"></iframe>
 
-📄 **[Télécharger le programme (PDF)](../../pdf/voltige-aile-d-or/fiche-descriptive-aile-or-avion-RC-interieur.pdf)**
+📄 **[Télécharger la fiche descriptive (PDF)](../../pdf/voltige-aile-d-or/fiche-descriptive-aile-or-avion-RC-interieur.pdf)**
