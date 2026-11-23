@@ -15,7 +15,7 @@ showSummary: false
 ## Programme (PDF)
 
 <div style="border:1px solid #ddd; border-radius:6px; overflow:hidden;">
-<iframe src="/pdf/f3p-promotion/Promotion.pdf" width="100%" height="1100" style="border:0; display:block;"></iframe>
+<iframe src="../../pdf/f3p-promotion/Promotion.pdf" width="100%" height="1100" style="border:0; display:block;"></iframe>
 </div>
 
-📄 **[Télécharger le programme (PDF)](/pdf/f3p-promotion/Promotion.pdf)**
+📄 **[Télécharger le programme (PDF)](../../pdf/f3p-promotion/Promotion.pdf)**
