@@ -26,7 +26,7 @@ a lieu après l'exécution d'une figure isolée. Exception : les figures 2,
 | **NA-25.02** Descente à 45° | 1/8 de boucle poussée pour prendre la descente à 45°, 1/8 de boucle tirée pour sortir à plat, trajectoire centrée sur l'axe | K=2 |
 | **NA-25.03** Renversement | Quart de boucle tirée, rotation de 180° courte autour du centre de gravité au sommet, quart de boucle pour sortir en sens opposé — enchaîné avec la descente à 45° | K=3 |
 | **NA-25.04** Boucle carrée | Quarts de boucles à rayons égaux reliés par des droites verticales égales et un passage dos, centrée sur l'axe | K=4 |
-| **NA-25.05** Virage à 180° | Virage à plat à 180° ailes inclinées, enchaîné après la boucle carrée, album et rayon constants | K=2 |
+| **NA-25.05** Virage à 180° | Virage à plat à 180° ailes inclinées, enchaîné après la boucle carrée, inclinaison et rayon constants | K=2 |
 | **NA-25.06** Tonneau à deux facettes avec demi-tonneau dans le même sens | Demi-tonneau avant l'axe, vol dos centré de même distance, demi-tonneau de sortie, rotations symétriques | K=3 |
 | **NA-25.07** Boucle | Boucle ronde complète, centrée sur l'axe, sortie à la hauteur de l'entrée | K=2 |
 | **NA-25.08** Séquence d'atterrissage | Descente régulière perpendiculaire aux juges, virage à 90° incliné, finale et immobilisation dans la zone de pose | K=1 |
